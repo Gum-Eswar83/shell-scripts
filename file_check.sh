@@ -12,4 +12,3 @@ then
 else
     echo "File '$file' does not exist"
 fi
-#Add file existence and permission checker
